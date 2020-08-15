@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-plugin-beautiful-bar",
+  "version": "1.0.0",
+  "description": "a plugin for vuepress to generate navbar and sidebar automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "navbar",
+    "sidebar"
+  ],
+  "author": "hugo",
+  "license": "LGPL-3.0-or-later"
+}
