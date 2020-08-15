@@ -3,15 +3,25 @@
   "version": "1.0.0",
   "description": "a plugin for vuepress to generate navbar and sidebar automatically",
   "main": "index.js",
+  "files": [
+    "/lib"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
+    "vue",
     "vuepress",
     "plugin",
+    "nav",
     "navbar",
     "sidebar"
   ],
   "author": "hugo",
-  "license": "LGPL-3.0-or-later"
+  "license": "LGPL-3.0-or-later",
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "eslint": "^7.7.0",
+    "jest": "^26.4.0"
+  }
 }
