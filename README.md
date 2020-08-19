@@ -1,4 +1,4 @@
-# Vuepress Plugin Beautify Bar
+# Vuepress Plugin Beautiful Bar
 
 ## Documentations Here
 
